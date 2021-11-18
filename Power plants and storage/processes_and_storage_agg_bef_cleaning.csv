@@ -1,0 +1,57 @@
+Fueltype;Technology;Set;inst-cap
+Bioenergy;NaN;CHP;85,0
+Bioenergy;NaN;PP;4928,582999999999
+Bioenergy;Pv;PP;140,0
+Bioenergy;Steam Turbine;CHP;205,60000000000002
+Bioenergy;Steam Turbine;PP;728,1
+Geothermal;NaN;PP;874,8
+Hard Coal;CCGT;CHP;132,3
+Hard Coal;CCGT;PP;704,0
+Hard Coal;NaN;CHP;252,0
+Hard Coal;NaN;PP;7754,1
+Hard Coal;Steam Turbine;CHP;11955,7968329235
+Hard Coal;Steam Turbine;PP;93654,10727571612
+Hydro;NaN;PP;46723,81371224777
+Hydro;Pumped Storage;PP;2085,0590372437177
+Hydro;Pumped Storage;Store;46975,27
+Hydro;Pumped Storage With Natural Inflow;Store;5,0
+Hydro;Pv;PP;32,5
+Hydro;Reservoir;PP;48570,362445859864
+Hydro;Run-Of-River;PP;23029,365502977787
+Lignite;NaN;CHP;305,0
+Lignite;NaN;PP;570,0
+Lignite;Steam Turbine;CHP;1201,1454627240196
+Lignite;Steam Turbine;PP;39797,84056308461
+Natural Gas;CCGT;CHP;4502,633999995114
+Natural Gas;CCGT;PP;139844,74401027933
+Natural Gas;CCGT, Thermal;PP;2248,0
+Natural Gas;Caes;PP;321,0
+Natural Gas;Gas Engines;CHP;14,747185550106618
+Natural Gas;NaN;CHP;753,9907922827826
+Natural Gas;NaN;PP;18590,557399999998
+Natural Gas;OCGT;CHP;220,45627682753488
+Natural Gas;OCGT;PP;5579,789698724831
+Natural Gas;Pv;PP;819,03
+Natural Gas;Steam Turbine;CHP;1253,391116059114
+Natural Gas;Steam Turbine;PP;9519,72232901008
+Natural Gas;Storage Technologies;Store;15,0
+Nuclear;NaN;PP;16563,363793074364
+Nuclear;Steam Turbine;PP;108036,58
+Oil;CCGT;PP;1514,0773381259814
+Oil;Gas Turbine;PP;168,60943749680018
+Oil;NaN;PP;5869,368
+Oil;OCGT;CHP;69,9
+Oil;OCGT;PP;1376,9834577638317
+Oil;Steam Turbine;CHP;700,6970762992864
+Oil;Steam Turbine;PP;15259,055704429833
+Other;NaN;PP;85,9
+Other;Steam Turbine;CHP;385,0
+Other;Steam Turbine;PP;325,0
+Solar;NaN;PP;962,4480000000002
+Waste;NaN;CHP;32,0
+Waste;NaN;PP;644,7
+Waste;Steam Turbine;CHP;54,5
+Waste;Steam Turbine;PP;123,0
+Wind;NaN;PP;9929,369999999999
+Wind;Offshore;PP;164,0
+Wind;Reservoir;PP;2,5
