@@ -1,0 +1,131 @@
+Country/area;Technology;inst-cap (MW);prod (MWh);FLH (h)
+AUT;Bagasse;0,0;0,0;0,0
+AUT;Biogas;191,0;634000,0;3319,3717277486912
+AUT;Concentrated solar power;0,0;0,0;0,0
+AUT;Geothermal;1,0;0,0;0,0
+AUT;Liquid biofuels;3,0;0,0;0,0
+AUT;Marine;0,0;0,0;0,0
+AUT;Offshore wind energy;0,0;0,0;0,0
+AUT;Onshore wind energy;2489,0;4838000,0;1943,752511048614
+AUT;Other solid biofuels;939,0;3567000,0;3798,7220447284344
+AUT;Pumped storage;0,0;3435000,0;0,0
+AUT;Renewable hydropower;13375,0;37091000,0;2773,158878504673
+AUT;Renewable municipal waste;263,0;302000,0;1148,2889733840304
+AUT;Solar photovoltaic;937,0;937000,0;1000,0
+CHE;Bagasse;0,0;0,0;0,0
+CHE;Biogas;29,0;304000,0;10482,758620689656
+CHE;Concentrated solar power;0,0;0,0;0,0
+CHE;Geothermal;0,0;0,0;0,0
+CHE;Liquid biofuels;0,0;0,0;0,0
+CHE;Marine;0,0;0,0;0,0
+CHE;Offshore wind energy;0,0;0,0;0,0
+CHE;Onshore wind energy;60,0;110000,0;1833,3333333333333
+CHE;Other solid biofuels;0,0;214000,0;0,0
+CHE;Pumped storage;469,0;1623000,0;3460,554371002132
+CHE;Renewable hydropower;13346,0;38258000,0;2866,626704630601
+CHE;Renewable municipal waste;211,0;1106000,0;5241,706161137441
+CHE;Solar photovoltaic;1394,0;1119000,0;802,725968436155
+CZE;Bagasse;0,0;0,0;0,0
+CZE;Biogas;368,0;2611000,0;7095,108695652174
+CZE;Concentrated solar power;0,0;0,0;0,0
+CZE;Geothermal;0,0;0,0;0,0
+CZE;Liquid biofuels;0,0;0,0;0,0
+CZE;Marine;0,0;0,0;0,0
+CZE;Offshore wind energy;0,0;0,0;0,0
+CZE;Onshore wind energy;281,0;573000,0;2039,1459074733095
+CZE;Other solid biofuels;380,0;2092000,0;5505,263157894737
+CZE;Pumped storage;1172,0;1276000,0;1088,7372013651877
+CZE;Renewable hydropower;1088,0;1795000,0;1649,8161764705883
+CZE;Renewable municipal waste;23,0;87000,0;3782,608695652174
+CZE;Solar photovoltaic;2075,0;2264000,0;1091,0843373493976
+DEU;Bagasse;0,0;0,0;0,0
+DEU;Biogas;5643,0;33073000,0;5860,889597731703
+DEU;Concentrated solar power;2,0;0,0;0,0
+DEU;Geothermal;26,0;134000,0;5153,846153846154
+DEU;Liquid biofuels;232,0;447000,0;1926,7241379310344
+DEU;Marine;0,0;0,0;0,0
+DEU;Offshore wind energy;3283,0;8285000,0;2523,6064575083765
+DEU;Onshore wind energy;41297,0;70922000,0;1717,3644574666441
+DEU;Other solid biofuels;1592,0;11034000,0;6930,904522613066
+DEU;Pumped storage;5666,0;5921000,0;1045,0052947405577
+DEU;Renewable hydropower;5733,0;18977000,0;3310,13431013431
+DEU;Renewable municipal waste;962,0;5768000,0;5995,841995841995
+DEU;Solar photovoltaic;39243,0;38726000,0;986,825675916724
+HRV;Bagasse;0,0;0,0;0,0
+HRV;Biogas;28,0;176000,0;6285,714285714285
+HRV;Concentrated solar power;0,0;0,0;0,0
+HRV;Geothermal;0,0;0,0;0,0
+HRV;Liquid biofuels;0,0;0,0;0,0
+HRV;Marine;0,0;0,0;0,0
+HRV;Offshore wind energy;0,0;0,0;0,0
+HRV;Onshore wind energy;418,0;796000,0;1904,3062200956938
+HRV;Other solid biofuels;25,0;89000,0;3560,0
+HRV;Pumped storage;0,0;165000,0;0,0
+HRV;Renewable hydropower;2207,0;6391000,0;2895,786135024921
+HRV;Renewable municipal waste;0,0;0,0;0,0
+HRV;Solar photovoltaic;48,0;57000,0;1187,5
+HUN;Bagasse;0,0;0,0;0,0
+HUN;Biogas;72,0;293000,0;4069,4444444444443
+HUN;Concentrated solar power;0,0;0,0;0,0
+HUN;Geothermal;0,0;0,0;0,0
+HUN;Liquid biofuels;0,0;0,0;0,0
+HUN;Marine;0,0;0,0;0,0
+HUN;Offshore wind energy;0,0;0,0;0,0
+HUN;Onshore wind energy;329,0;693000,0;2106,3829787234044
+HUN;Other solid biofuels;422,0;1661000,0;3936,0189573459716
+HUN;Pumped storage;0,0;0,0;0,0
+HUN;Renewable hydropower;57,0;234000,0;4105,263157894737
+HUN;Renewable municipal waste;25,0;207000,0;8280,0
+HUN;Solar photovoltaic;172,0;141000,0;819,7674418604652
+ITA;Bagasse;0,0;0,0;0,0
+ITA;Biogas;1336,0;8212000,0;6146,706586826347
+ITA;Concentrated solar power;6,0;13000,0;2166,6666666666665
+ITA;Geothermal;768,0;6185000,0;8053,385416666667
+ITA;Liquid biofuels;1000,0;4894000,0;4894,0
+ITA;Marine;0,0;0,0;0,0
+ITA;Offshore wind energy;0,0;0,0;0,0
+ITA;Onshore wind energy;9137,0;14844000,0;1624,6032614643757
+ITA;Other solid biofuels;616,0;3878000,0;6295,454545454545
+ITA;Pumped storage;3982,0;1432000,0;359,61828227021596
+ITA;Renewable hydropower;18238,0;45537000,0;2496,819826735388
+ITA;Renewable municipal waste;415,0;2343000,0;5645,78313253012
+ITA;Solar photovoltaic;18901,0;22942000,0;1213,7982117348288
+LIE;Bagasse;0,0;0,0;0,0
+LIE;Biogas;0,0;0,0;0,0
+LIE;Concentrated solar power;0,0;0,0;0,0
+LIE;Geothermal;0,0;0,0;0,0
+LIE;Liquid biofuels;0,0;0,0;0,0
+LIE;Marine;0,0;0,0;0,0
+LIE;Offshore wind energy;0,0;0,0;0,0
+LIE;Onshore wind energy;0,0;0,0;0,0
+LIE;Other solid biofuels;0,0;0,0;0,0
+LIE;Pumped storage;0,0;0,0;0,0
+LIE;Renewable hydropower;0,0;0,0;0,0
+LIE;Renewable municipal waste;0,0;0,0;0,0
+LIE;Solar photovoltaic;0,0;0,0;0,0
+SVK;Bagasse;0,0;0,0;0,0
+SVK;Biogas;91,0;541000,0;5945,054945054945
+SVK;Concentrated solar power;0,0;0,0;0,0
+SVK;Geothermal;0,0;0,0;0,0
+SVK;Liquid biofuels;0,0;0,0;0,0
+SVK;Marine;0,0;0,0;0,0
+SVK;Offshore wind energy;0,0;0,0;0,0
+SVK;Onshore wind energy;3,0;6000,0;2000,0
+SVK;Other solid biofuels;145,0;1099000,0;7579,310344827586
+SVK;Pumped storage;916,0;271000,0;295,8515283842795
+SVK;Renewable hydropower;1606,0;3866000,0;2407,2229140722293
+SVK;Renewable municipal waste;6,0;22000,0;3666,6666666666665
+SVK;Solar photovoltaic;533,0;506000,0;949,343339587242
+SVN;Bagasse;0,0;0,0;0,0
+SVN;Biogas;32,0;132000,0;4125,0
+SVN;Concentrated solar power;0,0;0,0;0,0
+SVN;Geothermal;0,0;0,0;0,0
+SVN;Liquid biofuels;1,0;4000,0;4000,0
+SVN;Marine;0,0;0,0;0,0
+SVN;Offshore wind energy;0,0;0,0;0,0
+SVN;Onshore wind energy;5,0;6000,0;1200,0
+SVN;Other solid biofuels;30,0;131000,0;4366,666666666667
+SVN;Pumped storage;180,0;283000,0;1572,2222222222222
+SVN;Renewable hydropower;1115,0;3807000,0;3414,3497757847535
+SVN;Renewable municipal waste;0,0;0,0;0,0
+SVN;Solar photovoltaic;238,0;274000,0;1151,2605042016808
