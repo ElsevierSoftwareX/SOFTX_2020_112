@@ -1,0 +1,1 @@
+{"region_name": "Austria", "year": 2015, "author": "User", "comment": "Tutorial", "dict_countries": "D:\\LOdersky\\pyPRIMA\\assumptions\\dict_countries.csv", "load_ts": "D:\\Database_KS\\01 Raw inputs\\Load\\ENTSOE\\Monthly-hourly-load-values_2006-2015.xlsx", "timestamp": "20200909T151941", "function": "clean_load_data_ENTSOE"}
