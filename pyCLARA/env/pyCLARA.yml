@@ -1,0 +1,14 @@
+name: pyCLARA
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pysal=1.14.4
+  - pandas
+  - geopandas=0.7.0
+  - scikit-learn
+  - libpysal
+  - rasterio
+  - networkx
+# prefix: D:\Miniconda3\envs\pyCLARA
+
